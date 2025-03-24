@@ -21,12 +21,6 @@ function NavBar() {
               Home
             </Link>
             <Link
-              to="/about"
-              className="text-sm font-medium text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400"
-            >
-              About
-            </Link>
-            <Link
               to="/departments"
               className="text-sm font-medium text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400"
             >
